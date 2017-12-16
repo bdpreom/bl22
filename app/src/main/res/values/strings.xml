@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">kodium</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Donor finder !</string>
+    <string name="slide_1_desc">The easiest way to find nearby donor at speed!</string>
+
+    <string name="slide_2_title">Register yourself !</string>
+    <string name="slide_2_desc">Register yourself as a donor will allow you to connect people more quikly!</string>
+
+    <string name="slide_3_title">Alert Notifications !</string>
+    <string name="slide_3_desc">People in need will quicly able to send you nudge thorugh notifications </string>
+
+    <string name="slide_4_title">Rare of a kind ! </string>
+    <string name="slide_4_desc">Dontating blood minimize the risk of cancer so why not
+                                contribute ?   </string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again ?</string>
+</resources>
